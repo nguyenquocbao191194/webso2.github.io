@@ -1,0 +1,40 @@
+@media only screen and (max-width: 767px) {
+  /*For MOBILE */
+  .col-x-1 {
+    width: 100%;
+  }
+  .col-x-2 {
+    width: 100%;
+  }
+  .col-x-3 {
+    width: 100%;
+  }
+  .col-x-4 {
+    width: 100%;
+  }
+  .col-x-5 {
+    width: 100%;
+  }
+  .col-x-6 {
+    width: 100%;
+  }
+  .col-x-7 {
+    width: 100%;
+  }
+  .col-x-8 {
+    width: 100%;
+  }
+  .col-x-9 {
+    width: 100%;
+  }
+  .col-x-10 {
+    width: 100%;
+  }
+  .col-x-11 {
+    width: 100%;
+    display: none;
+  }
+  .col-x-12 {
+    width: 100%;
+  }
+}

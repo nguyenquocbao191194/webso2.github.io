@@ -1,0 +1,96 @@
+* {
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+  font-family: sans-serif;
+}
+.box {
+  float: left;
+}
+[class*="col-"] {
+  width: 100%;
+}
+
+.menu {
+  text-transform: uppercase;
+  list-style: none;
+  font-weight: 600;
+  font-size: 12px;
+  padding-bottom: 30px;
+  margin: auto;
+  position: relative;
+}
+.menu_left {
+  float: left;
+  padding: 15px;
+}
+.menu_right {
+  float: right;
+  padding: 15px;
+}
+.menu ul {
+  list-style-type: none;
+}
+
+.menu li {
+  background-color: #33b5e5;
+  color: #ffffff;
+  box-shadow: 0 1px 3px rgba(0, 0, 0, 0.12), 0 1px 2px rgba(0, 0, 0, 0.24);
+}
+
+.menu li:hover {
+  background-color: #0099cc;
+}
+a {
+  text-decoration: none;
+  color: rgb(55, 129, 226);
+}
+a:visited {
+  color: green;
+}
+a:hover {
+  color: hotpink;
+}
+.pic {
+  width: 100%;
+  margin: 5px;
+  border: 1px solid #ccc;
+}
+.pic:hover {
+  border: 1px solid #777;
+}
+#ban {
+  width: 100%;
+  position: relative;
+}
+.head {
+  width: 100%;
+  padding-left: 5%;
+  padding-bottom: 5%;
+}
+.photo {
+  max-width: 100%;
+  height: auto;
+}
+img.cangiua {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+.cangiua {
+  font-family: sans-serif;
+  text-align: center;
+}
+.cantrai {
+  margin-left: 20%;
+  margin-right: 5%;
+}
+.text {
+  font-size: x-large;
+  width: 100%;
+  padding-left: 5%;
+  padding-right: 5%;
+}
+.danhsach {
+  padding-left: 3%;
+}
